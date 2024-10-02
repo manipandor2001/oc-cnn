@@ -166,4 +166,4 @@ else:
 	raise argparse.ArgumentTypeError('model type can be either train or eval')
 
 
-print auc
+print(auc)
